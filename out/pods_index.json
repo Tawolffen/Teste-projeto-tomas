@@ -1,0 +1,536 @@
+{
+  "A1": {
+    "zone": "A",
+    "zone_title": "Rewire for Value",
+    "zone_tension": "Como sair de experimentos e gerar valor? Otimizar o fluxo atual ou redesenha-lo?",
+    "size": 10,
+    "participant_ids": [
+      "125",
+      "120",
+      "77",
+      "29",
+      "12",
+      "2",
+      "40",
+      "191",
+      "168",
+      "53"
+    ],
+    "scores": {
+      "common_ground": 0.3738888888888889,
+      "complementarity": 0.7222222222222222,
+      "useful_diversity": 0.7916666666666666,
+      "session_continuity": 1.0,
+      "friction": 0.0,
+      "total": 2.2475
+    },
+    "rationale": "Este grupo compartilha interesse em redesenhar processos do zero e escalar valor a partir de pilotos. Ao mesmo tempo, reune 5 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para O Futuro das Operacoes depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: redesenhar processos do zero e escalar valor a partir de pilotos. Onde voces estao hoje: otimizando o que ja existe ou redesenhando do zero — e por que?"
+  },
+  "A2": {
+    "zone": "A",
+    "zone_title": "Rewire for Value",
+    "zone_tension": "Como sair de experimentos e gerar valor? Otimizar o fluxo atual ou redesenha-lo?",
+    "size": 10,
+    "participant_ids": [
+      "146",
+      "119",
+      "60",
+      "5",
+      "99",
+      "82",
+      "14",
+      "18",
+      "44",
+      "51"
+    ],
+    "scores": {
+      "common_ground": 0.3346296296296297,
+      "complementarity": 0.7511111111111112,
+      "useful_diversity": 0.8388888888888889,
+      "session_continuity": 1.0,
+      "friction": 0.0,
+      "total": 2.254962962962963
+    },
+    "rationale": "Este grupo compartilha interesse em redesenhar processos do zero e operacoes e cadeia de valor. Ao mesmo tempo, reune 4 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para O Futuro das Operacoes depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: redesenhar processos do zero e operacoes e cadeia de valor. Onde voces estao hoje: otimizando o que ja existe ou redesenhando do zero — e por que?"
+  },
+  "A3": {
+    "zone": "A",
+    "zone_title": "Rewire for Value",
+    "zone_tension": "Como sair de experimentos e gerar valor? Otimizar o fluxo atual ou redesenha-lo?",
+    "size": 9,
+    "participant_ids": [
+      "130",
+      "159",
+      "170",
+      "151",
+      "198",
+      "192",
+      "175",
+      "4",
+      "134"
+    ],
+    "scores": {
+      "common_ground": 0.3793981481481481,
+      "complementarity": 0.625,
+      "useful_diversity": 0.7118055555555556,
+      "session_continuity": 1.0,
+      "friction": 0.0,
+      "total": 2.1353009259259257
+    },
+    "rationale": "Este grupo compartilha interesse em escalar valor a partir de pilotos e crescimento comercial. Ao mesmo tempo, reune 5 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para O Futuro das Operacoes depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: escalar valor a partir de pilotos e crescimento comercial. Onde voces estao hoje: otimizando o que ja existe ou redesenhando do zero — e por que?"
+  },
+  "A4": {
+    "zone": "A",
+    "zone_title": "Rewire for Value",
+    "zone_tension": "Como sair de experimentos e gerar valor? Otimizar o fluxo atual ou redesenha-lo?",
+    "size": 17,
+    "participant_ids": [
+      "132",
+      "108",
+      "25",
+      "107",
+      "135",
+      "81",
+      "189",
+      "13",
+      "17",
+      "101",
+      "165",
+      "48",
+      "65",
+      "56",
+      "95",
+      "200",
+      "161"
+    ],
+    "scores": {
+      "common_ground": 0.3838235294117644,
+      "complementarity": 0.5904411764705885,
+      "useful_diversity": 0.6599264705882353,
+      "session_continuity": 1.0,
+      "friction": 0.015441176470588232,
+      "total": 2.070698529411766
+    },
+    "rationale": "Este grupo compartilha interesse em escalar valor a partir de pilotos e arquitetura de dados e modelos. Ao mesmo tempo, reune 5 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para Como agentes de IA estao redefinindo os servicos financeiros depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: escalar valor a partir de pilotos e arquitetura de dados e modelos. Onde voces estao hoje: otimizando o que ja existe ou redesenhando do zero — e por que?"
+  },
+  "A5": {
+    "zone": "A",
+    "zone_title": "Rewire for Value",
+    "zone_tension": "Como sair de experimentos e gerar valor? Otimizar o fluxo atual ou redesenha-lo?",
+    "size": 17,
+    "participant_ids": [
+      "24",
+      "57",
+      "66",
+      "176",
+      "129",
+      "59",
+      "106",
+      "86",
+      "90",
+      "208",
+      "196",
+      "110",
+      "184",
+      "45",
+      "35",
+      "160",
+      "79"
+    ],
+    "scores": {
+      "common_ground": 0.35894607843137244,
+      "complementarity": 0.618014705882353,
+      "useful_diversity": 0.6764705882352942,
+      "session_continuity": 1.0,
+      "friction": 0.010294117647058823,
+      "total": 2.081299019607844
+    },
+    "rationale": "Este grupo compartilha interesse em escalar valor a partir de pilotos e crescimento comercial. Ao mesmo tempo, reune 5 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para A Reinvencao do Comercio depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: escalar valor a partir de pilotos e crescimento comercial. Onde voces estao hoje: otimizando o que ja existe ou redesenhando do zero — e por que?"
+  },
+  "B1": {
+    "zone": "B",
+    "zone_title": "Trust x Autonomy",
+    "zone_tension": "Quanto controle entregar a agentes e onde governanca/supervisao precisam permanecer fortes?",
+    "size": 10,
+    "participant_ids": [
+      "41",
+      "9",
+      "136",
+      "32",
+      "87",
+      "193",
+      "1",
+      "148",
+      "100",
+      "177"
+    ],
+    "scores": {
+      "common_ground": 0.43788888888888894,
+      "complementarity": 0.5399999999999998,
+      "useful_diversity": 0.6611111111111111,
+      "session_continuity": 1.0,
+      "friction": 0.0,
+      "total": 2.1004444444444443
+    },
+    "rationale": "Este grupo compartilha interesse em agentes autonomos e arquitetura de dados e modelos. Ao mesmo tempo, reune 4 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para Como agentes de IA estao redefinindo os servicos financeiros depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: agentes autonomos e arquitetura de dados e modelos. Onde a aprovacao humana deveria continuar obrigatoria, mesmo com agentes mais capazes?"
+  },
+  "B2": {
+    "zone": "B",
+    "zone_title": "Trust x Autonomy",
+    "zone_tension": "Quanto controle entregar a agentes e onde governanca/supervisao precisam permanecer fortes?",
+    "size": 10,
+    "participant_ids": [
+      "128",
+      "117",
+      "207",
+      "111",
+      "181",
+      "121",
+      "164",
+      "149",
+      "63",
+      "91"
+    ],
+    "scores": {
+      "common_ground": 0.47500000000000014,
+      "complementarity": 0.5855555555555554,
+      "useful_diversity": 0.6444444444444445,
+      "session_continuity": 1.0,
+      "friction": 0.03111111111111111,
+      "total": 2.1345555555555555
+    },
+    "rationale": "Este grupo compartilha interesse em arquitetura de dados e modelos e governanca e risco. Ao mesmo tempo, reune 5 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para Como agentes de IA estao redefinindo os servicos financeiros depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: arquitetura de dados e modelos e governanca e risco. Onde a aprovacao humana deveria continuar obrigatoria, mesmo com agentes mais capazes?"
+  },
+  "B3": {
+    "zone": "B",
+    "zone_title": "Trust x Autonomy",
+    "zone_tension": "Quanto controle entregar a agentes e onde governanca/supervisao precisam permanecer fortes?",
+    "size": 9,
+    "participant_ids": [
+      "131",
+      "140",
+      "8",
+      "210",
+      "36",
+      "43",
+      "76",
+      "52",
+      "20"
+    ],
+    "scores": {
+      "common_ground": 0.44583333333333336,
+      "complementarity": 0.651388888888889,
+      "useful_diversity": 0.7638888888888888,
+      "session_continuity": 1.0,
+      "friction": 0.0,
+      "total": 2.2488888888888887
+    },
+    "rationale": "Este grupo compartilha interesse em governanca e risco e arquitetura de dados e modelos. Ao mesmo tempo, reune 5 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para Como agentes de IA estao redefinindo os servicos financeiros depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: governanca e risco e arquitetura de dados e modelos. Onde a aprovacao humana deveria continuar obrigatoria, mesmo com agentes mais capazes?"
+  },
+  "B4": {
+    "zone": "B",
+    "zone_title": "Trust x Autonomy",
+    "zone_tension": "Quanto controle entregar a agentes e onde governanca/supervisao precisam permanecer fortes?",
+    "size": 10,
+    "participant_ids": [
+      "61",
+      "194",
+      "88",
+      "114",
+      "142",
+      "70",
+      "97",
+      "126",
+      "10",
+      "172"
+    ],
+    "scores": {
+      "common_ground": 0.3266666666666666,
+      "complementarity": 0.6977777777777778,
+      "useful_diversity": 0.7166666666666667,
+      "session_continuity": 1.0,
+      "friction": 0.06222222222222222,
+      "total": 2.0810000000000004
+    },
+    "rationale": "Este grupo compartilha interesse em agentes autonomos e governanca e risco. Ao mesmo tempo, reune 5 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para O Futuro das Operacoes depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: agentes autonomos e governanca e risco. Onde a aprovacao humana deveria continuar obrigatoria, mesmo com agentes mais capazes?"
+  },
+  "B5": {
+    "zone": "B",
+    "zone_title": "Trust x Autonomy",
+    "zone_tension": "Quanto controle entregar a agentes e onde governanca/supervisao precisam permanecer fortes?",
+    "size": 10,
+    "participant_ids": [
+      "72",
+      "50",
+      "109",
+      "156",
+      "116",
+      "38",
+      "186",
+      "202",
+      "166",
+      "102"
+    ],
+    "scores": {
+      "common_ground": 0.44185185185185183,
+      "complementarity": 0.5066666666666665,
+      "useful_diversity": 0.575,
+      "session_continuity": 1.0,
+      "friction": 0.0,
+      "total": 2.0346851851851855
+    },
+    "rationale": "Este grupo compartilha interesse em arquitetura de dados e modelos e agentes autonomos. Ao mesmo tempo, reune 3 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para O Futuro das Operacoes depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: arquitetura de dados e modelos e agentes autonomos. Onde a aprovacao humana deveria continuar obrigatoria, mesmo com agentes mais capazes?"
+  },
+  "B6": {
+    "zone": "B",
+    "zone_title": "Trust x Autonomy",
+    "zone_tension": "Quanto controle entregar a agentes e onde governanca/supervisao precisam permanecer fortes?",
+    "size": 14,
+    "participant_ids": [
+      "3",
+      "144",
+      "98",
+      "27",
+      "54",
+      "93",
+      "199",
+      "15",
+      "21",
+      "139",
+      "7",
+      "78",
+      "94",
+      "173"
+    ],
+    "scores": {
+      "common_ground": 0.40485347985347986,
+      "complementarity": 0.5593406593406595,
+      "useful_diversity": 0.5879120879120879,
+      "session_continuity": 1.0,
+      "friction": 0.12307692307692306,
+      "total": 1.923205128205129
+    },
+    "rationale": "Este grupo compartilha interesse em agentes autonomos e crescimento comercial. Ao mesmo tempo, reune 6 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para A Reinvencao do Comercio depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: agentes autonomos e crescimento comercial. Onde a aprovacao humana deveria continuar obrigatoria, mesmo com agentes mais capazes?"
+  },
+  "C1": {
+    "zone": "C",
+    "zone_title": "The New Operating Model",
+    "zone_tension": "Como IA muda papeis, equipes, workflows e formas de operar?",
+    "size": 12,
+    "participant_ids": [
+      "11",
+      "58",
+      "80",
+      "141",
+      "188",
+      "162",
+      "203",
+      "39",
+      "42",
+      "26",
+      "85",
+      "69"
+    ],
+    "scores": {
+      "common_ground": 0.43674242424242415,
+      "complementarity": 0.7007575757575758,
+      "useful_diversity": 0.7348484848484849,
+      "session_continuity": 1.0,
+      "friction": 0.0,
+      "total": 2.2647727272727276
+    },
+    "rationale": "Este grupo compartilha interesse em operacoes e cadeia de valor e arquitetura de dados e modelos. Ao mesmo tempo, reune 5 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para O Futuro das Operacoes depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: operacoes e cadeia de valor e arquitetura de dados e modelos. Qual parte do time ou do fluxo de trabalho vai mudar primeiro com IA — e quem sente isso primeiro?"
+  },
+  "C2": {
+    "zone": "C",
+    "zone_title": "The New Operating Model",
+    "zone_tension": "Como IA muda papeis, equipes, workflows e formas de operar?",
+    "size": 12,
+    "participant_ids": [
+      "174",
+      "49",
+      "64",
+      "89",
+      "75",
+      "190",
+      "158",
+      "19",
+      "34",
+      "103",
+      "123",
+      "31"
+    ],
+    "scores": {
+      "common_ground": 0.422979797979798,
+      "complementarity": 0.6234848484848484,
+      "useful_diversity": 0.6439393939393939,
+      "session_continuity": 1.0,
+      "friction": 0.0,
+      "total": 2.1437373737373733
+    },
+    "rationale": "Este grupo compartilha interesse em operacoes e cadeia de valor e arquitetura de dados e modelos. Ao mesmo tempo, reune 4 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para O Futuro das Operacoes depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: operacoes e cadeia de valor e arquitetura de dados e modelos. Qual parte do time ou do fluxo de trabalho vai mudar primeiro com IA — e quem sente isso primeiro?"
+  },
+  "C3": {
+    "zone": "C",
+    "zone_title": "The New Operating Model",
+    "zone_tension": "Como IA muda papeis, equipes, workflows e formas de operar?",
+    "size": 11,
+    "participant_ids": [
+      "185",
+      "209",
+      "147",
+      "195",
+      "113",
+      "23",
+      "179",
+      "145",
+      "201",
+      "30",
+      "154"
+    ],
+    "scores": {
+      "common_ground": 0.2915151515151516,
+      "complementarity": 0.5481818181818182,
+      "useful_diversity": 0.5795454545454546,
+      "session_continuity": 1.0,
+      "friction": 0.012727272727272726,
+      "total": 1.9071060606060604
+    },
+    "rationale": "Este grupo compartilha interesse em operacoes e cadeia de valor e priorizacao estrategica. Ao mesmo tempo, reune 4 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para O Futuro das Operacoes depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: operacoes e cadeia de valor e priorizacao estrategica. Qual parte do time ou do fluxo de trabalho vai mudar primeiro com IA — e quem sente isso primeiro?"
+  },
+  "C4": {
+    "zone": "C",
+    "zone_title": "The New Operating Model",
+    "zone_tension": "Como IA muda papeis, equipes, workflows e formas de operar?",
+    "size": 11,
+    "participant_ids": [
+      "182",
+      "122",
+      "163",
+      "138",
+      "33",
+      "92",
+      "167",
+      "105",
+      "112",
+      "115",
+      "180"
+    ],
+    "scores": {
+      "common_ground": 0.37651515151515164,
+      "complementarity": 0.6081818181818184,
+      "useful_diversity": 0.6931818181818182,
+      "session_continuity": 1.0,
+      "friction": 0.0,
+      "total": 2.109651515151515
+    },
+    "rationale": "Este grupo compartilha interesse em redesenhar processos do zero e pessoas e talento. Ao mesmo tempo, reune 4 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para O Futuro das Operacoes depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: redesenhar processos do zero e pessoas e talento. Qual parte do time ou do fluxo de trabalho vai mudar primeiro com IA — e quem sente isso primeiro?"
+  },
+  "C5": {
+    "zone": "C",
+    "zone_title": "The New Operating Model",
+    "zone_tension": "Como IA muda papeis, equipes, workflows e formas de operar?",
+    "size": 9,
+    "participant_ids": [
+      "22",
+      "187",
+      "73",
+      "84",
+      "152",
+      "204",
+      "157",
+      "171",
+      "67"
+    ],
+    "scores": {
+      "common_ground": 0.25879629629629636,
+      "complementarity": 0.48888888888888904,
+      "useful_diversity": 0.5243055555555556,
+      "session_continuity": 1.0,
+      "friction": 0.11666666666666667,
+      "total": 1.695393518518519
+    },
+    "rationale": "Este grupo compartilha interesse em pessoas e talento e redesenhar processos do zero. Vem de areas diferentes o suficiente para gerar perspectivas complementares. A maior parte do pod pretende seguir para Como agentes de IA estao redefinindo os servicos financeiros depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: pessoas e talento e redesenhar processos do zero. Qual parte do time ou do fluxo de trabalho vai mudar primeiro com IA — e quem sente isso primeiro?"
+  },
+  "C6": {
+    "zone": "C",
+    "zone_title": "The New Operating Model",
+    "zone_tension": "Como IA muda papeis, equipes, workflows e formas de operar?",
+    "size": 8,
+    "participant_ids": [
+      "46",
+      "205",
+      "153",
+      "127",
+      "137",
+      "71",
+      "62",
+      "150"
+    ],
+    "scores": {
+      "common_ground": 0.34226190476190477,
+      "complementarity": 0.5839285714285715,
+      "useful_diversity": 0.5892857142857143,
+      "session_continuity": 1.0,
+      "friction": 0.049999999999999996,
+      "total": 1.954047619047619
+    },
+    "rationale": "Este grupo compartilha interesse em operacoes e cadeia de valor e redesenhar processos do zero. Ao mesmo tempo, reune 4 funcoes diferentes, trazendo angulos distintos sobre o mesmo tema. A maior parte do pod pretende seguir para A Reinvencao do Comercio depois — a conversa pode continuar la.",
+    "starter": "Comecem por aqui: operacoes e cadeia de valor e redesenhar processos do zero. Qual parte do time ou do fluxo de trabalho vai mudar primeiro com IA — e quem sente isso primeiro?"
+  },
+  "OPEN": {
+    "zone": "D",
+    "zone_title": "Open Networking",
+    "zone_tension": "Espaco espontaneo para quem nao quer recomendacao ou prefere networking livre.",
+    "size": 21,
+    "participant_ids": [
+      "6",
+      "16",
+      "28",
+      "37",
+      "47",
+      "55",
+      "68",
+      "74",
+      "83",
+      "96",
+      "104",
+      "118",
+      "124",
+      "133",
+      "143",
+      "155",
+      "169",
+      "178",
+      "183",
+      "197",
+      "206"
+    ],
+    "scores": {
+      "common_ground": 0.34281746031746,
+      "complementarity": 0.5364285714285715,
+      "useful_diversity": 0.5452380952380952,
+      "session_continuity": 1.0,
+      "friction": 0.07999999999999997,
+      "total": 1.8645793650793658
+    },
+    "rationale": "",
+    "starter": ""
+  }
+}
